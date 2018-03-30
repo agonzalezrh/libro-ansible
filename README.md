@@ -1,3 +1,3 @@
-# libro-ansible
+# Repositorio libro-ansible
 
 Ejemplos usados en el libro.
